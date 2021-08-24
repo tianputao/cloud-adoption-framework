@@ -52,7 +52,7 @@ For organizations where this conceptual architecture fits with the operating mod
 The accelerator is an Azure portal-based deployment that will provide a full implementation of the conceptual architecture, along with opinionated configurations for key components such as management groups and policies.
 
 [![`DTA-Button-ALZ`](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://aka.ms/caf/ready/accelerator)
-[![`DTA-Button-ALZ`](https://eslzazurechina.z4.web.core.chinacloudapi.cn/deploytoazurechina.svg?sanitize=true)](https://portal.azure.cn/#blade/Microsoft_Azure_CreateUIDef/CustomDeploymentBlade/uri/http%3A%2F%2cors.io/?https%3A%2F%2Feslzazurechina.z4.web.core.chinacloudapi.cn%2FeslzArm.json/uiFormDefinitionUri/http%3A%2F%2cors.io/?https%3A%2F%2Feslzazurechina.z4.web.core.chinacloudapi.cn%2Feslz-portal.json)
+[![`DTA-Button-ALZ`](https://eslzazurechina.z4.web.core.chinacloudapi.cn/deploytoazurechina.svg?sanitize=true)](https://portal.azure.cn/#blade/Microsoft_Azure_CreateUIDef/CustomDeploymentBlade/uri/https%3A%2F%2Feslzazurechina.z4.web.core.chinacloudapi.cn%2FeslzArm.json/uiFormDefinitionUri/https%3A%2F%2Feslzazurechina.z4.web.core.chinacloudapi.cn%2Feslz-portal.json)
 
 There are other deployment options available, some that deliver the full architecture using third-party deployment technologies, and others that start from a smaller footprint. For more information, see [Implementation options](./implementation-options.md).
 
