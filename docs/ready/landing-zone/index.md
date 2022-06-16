@@ -52,7 +52,7 @@ For organizations where this conceptual architecture fits with the operating mod
 The accelerator is an Azure portal-based deployment that will provide a full implementation of the conceptual architecture, along with opinionated configurations for key components such as management groups and policies.
 
 [![`DTA-Button-ALZ`](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://aka.ms/caf/ready/accelerator)
-[![`DTA-Button-ALZ`](https://eslzazurechina.blob.core.chinacloudapi.cn/app/LandingZoneAzureChina.png?sanitize=true)](https://portal.azure.cn/#blade/Microsoft_Azure_CreateUIDef/CustomDeploymentBlade/uri/https%3A%2F%2Feslzazurechina.blob.core.chinacloudapi.cn%2Fapp%2FmainTemplate.json/uiFormDefinitionUri/https%3A%2F%2Feslzazurechina.blob.core.chinacloudapi.cn%2Fapp%2FcreateUiDefinition.json)
+[![`DTA-Button-ALZ`](https://eslzazurechina.blob.core.chinacloudapi.cn/app/LandingZoneAzureChina.png?sanitize=true)](https://portal.azure.cn/#blade/Microsoft_Azure_CreateUIDef/CustomDeploymentBlade/uri/https%3A%2F%2Feslzfiles.blob.core.chinacloudapi.cn%2Fdefault-landingzone-files%2FeslzArm.json/uiFormDefinitionUri/https%3A%2F%2Feslzfiles.blob.core.chinacloudapi.cn%2Fdefault-landingzone-files%2Feslz-portal.json)
 
 
 
